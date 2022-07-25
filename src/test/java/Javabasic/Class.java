@@ -47,7 +47,7 @@ public class Class {
 
 	
 	
-	public static int total sum (int x, int y){
+	public static int totalsum (int x, int y){
 	
 		int sum = x+y;
 	 //System.out.println("i am inside method:"+sum)	
@@ -58,20 +58,16 @@ public class Class {
 	
 	
 	
-	public static void main (string){} arg){
+	public static void main1(String[] args){
 	
 		int y=300000000;
 		long ph=00000000000000000000000000000000000000000;
-		string yy= "Millat";
+		String yy= "Millat";
 		
-		System.out.println(totalSum)(3,5));
+		System.out.println(totalsum(3,5));
 	}
 		
 		
-		
-		
-		
-	
 	
 	}  
 	 
@@ -82,4 +78,4 @@ public class Class {
 	
 	
 	
-}
+
