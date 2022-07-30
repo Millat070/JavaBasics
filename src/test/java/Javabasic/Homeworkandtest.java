@@ -63,7 +63,7 @@ public class Homeworkandtest {
 		String p1=p.trim(); 
 		System.out.println("after trim :"+p1);
 		
-		p.split(p1);  
+	
 	
 		
 		
