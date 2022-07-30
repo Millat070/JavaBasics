@@ -61,7 +61,9 @@ public class Homeworkandtest {
 		String p ="I am on train";
 	    System.out.println("before trim : "+p);
 		String p1=p.trim(); 
-		System.out.println("after trim :"+p1); 
+		System.out.println("after trim :"+p1);
+		
+		//Slipt 
 	
 		
 		
