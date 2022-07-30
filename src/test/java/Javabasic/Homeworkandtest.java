@@ -7,9 +7,10 @@ public class Homeworkandtest {
 
 		/*
 		 * 
-		 * 
-		 * 
-		 * 
+		 * Two ways create string 
+		 * String literal etc: String s="i like automation software:;
+		 * by using new memory operator. etc : String st= new String ("Like automation software");
+		 * Using String buffer and String builder  
 		 */
 		
 		//Two ways to create string
@@ -44,8 +45,23 @@ public class Homeworkandtest {
 		
 		System.out.println(str.substring(4, 13));
 		
-		 
-		 
+		// String comparison 
+		String s1= "kamal";
+		String s2 = "Kamal";
+		s1.equals(s2);//==
+		System.out.println(s1.equals(s2));// True 
+		System.out.println(s1.equals(s2));// False 
+		
+		// equal ignore case 
+		System.out.println(s1.equalsIgnoreCase(s2));
+		
+		
+		//Trim 
+		
+		String p ="I am on train";
+	    System.out.println("before trim : "+p);
+		String p1=p.trim(); 
+		System.out.println("after trim :"+p1); 
 	
 		
 		
